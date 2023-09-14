@@ -49,4 +49,4 @@ async function blue() {
     console.log(result);
 }
 
-blue();
+
